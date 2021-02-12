@@ -1,0 +1,2 @@
+# Origin-Account-Generate
+使用selenium控制火狐浏览器实现半自动批量注册Origin账号
